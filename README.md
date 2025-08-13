@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | ML Enthusiast | Business Analytics Graduate</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shantanu-dahiphale](https://www.linkedin.com/in/shantanu-dahiphale-749190201" target="_blank">
+  <a href="https://www.linkedin.com/in/shantanu-dahiphale-749190201" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/wckd111" target="_blank">
