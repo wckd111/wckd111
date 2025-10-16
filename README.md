@@ -1,84 +1,85 @@
 <h1 align="center">Hey there 👋, I'm Shantanu Dahiphale</h1>
-<h3 align="center">Data Analyst | Business Analytics Graduate | ML Enthusiast</h3>
+<h3 align="center">Turning data into stories that make decisions easier</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shantanu-dahiphale-749190201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/wckd111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:cdahiphale@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 About Me
-🎓 Master’s in Business Analytics, University of Dayton (GPA: 3.56)  
-💻 Data Analyst skilled in Python, SQL, and predictive modeling  
-📊 Experienced in building automated dashboards (Power BI, Tableau) and cloud-based analytics (AWS, Azure, GCP)  
-📈 Passionate about data strategy, feature engineering, and ML model optimization  
+## 🧭 About Me
+I’m a **Data Analyst** who loves figuring out *why things work the way they do* — in data, systems, and decisions.  
+Numbers make sense to me when they connect back to people and actions.  
+
+I recently finished my **Master’s in Business Analytics** at the University of Dayton (GPA 3.6), where my work focused on:
+- Automating analytics workflows that reduced reporting time by 40%
+- Designing dashboards that improved library resource allocation by 25%
+- Applying machine learning to real-world healthcare datasets (AUC 0.89 on SEER survival prediction)
+
+I believe the real challenge isn’t finding insights — it’s making them *visible and useful*.
 
 ---
 
-## 🧩 Core Skills
-- **Languages:** Python, R, SAS, MATLAB, SQL  
-- **Libraries & Modeling:** Pandas, NumPy, SciPy, scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, NLP  
-- **Databases & ETL:** MySQL, PostgreSQL, Redshift, MongoDB, Hadoop, Spark, Oracle  
-- **BI & Visualization:** Tableau, Power BI, Looker, Excel  
-- **Cloud & Tools:** AWS (EC2, S3, RDS), Azure, GCP, Docker, Kubernetes, Alteryx  
-- **Other:** Data Ethics, Data Governance, Critical Thinking  
+## 🧩 What I Work With
+- **Data:** Python, R, SQL (MySQL, PostgreSQL, Redshift, Oracle)  
+- **Visualization:** Power BI, Tableau, Excel  
+- **Modeling:** scikit-learn, XGBoost, LightGBM, CatBoost  
+- **Cloud & Tools:** AWS (EC2, S3, RDS), Azure, GCP, Git  
+- **Practices:** Data Governance, Feature Engineering, ETL, A/B Testing  
 
 ---
 
-## 📊 Featured Projects
+## 🧠 Projects That Kept Me Up at Night
+### 🧬 Cancer Survival Prediction
+Built a complete ML pipeline on SEER data (~800K records, 149 features)  
+Used NLP to process physician notes and improve survival predictions.  
+Best model: **CatBoost (AUC 0.89)**  
+👉 [View on GitHub](https://github.com/Ayushs10/ColorectalCancerSurvivalPrediction)
 
-### 🧬 Cancer Survival Prediction (Capstone – University of Dayton)
-- Built ML pipeline on SEER data (~800K records, 149 features) with preprocessing, imputation, and feature selection  
-- Integrated NLP for physician notes to enrich structured data inputs  
-- Trained Logistic Regression, Random Forest, XGBoost, LightGBM, and CatBoost models  
-- Optimized hyperparameters via GridSearchCV; achieved **AUC: 0.89**  
-🔗 [View on GitHub](https://github.com/Ayushs10/ColorectalCancerSurvivalPrediction)
+### 🧠 Depression Detection Using AI  
+Explored facial, voice, and text signals to detect early symptoms.  
+Integrated OpenCV, MFCCs, and NLP sentiment analysis.  
+SVM reached **85% accuracy** — proof that emotion and data can coexist.
 
----
-
-### 🧠 Depression Detection Using AI (Capstone – Savitribai Phule University)
-- Designed multimodal ML pipeline with facial recognition (OpenCV, Dlib), voice tone (MFCCs), and text sentiment (NLP)  
-- Processed 2,500+ samples with robust feature engineering  
-- Tuned SVM achieving **85% accuracy, 0.83 precision, 0.81 recall**  
-- Additional Random Forest, XGBoost, and Logistic Regression models achieved >90% accuracy  
-
----
-
-### 📚 Library Data Analytics (University of Dayton – Work Experience)
-- Maintained Sierra ILS for **100K+ assets** and implemented data governance policies  
-- Automated reporting via SQL + Power BI, boosting faculty resource utilization by **25%**  
-- Reduced classification errors by **15%** through workflow optimization and metadata standardization  
+### 📚 Library Data Analytics (Work Experience)  
+Built Power BI dashboards on top of 100K+ records in Sierra ILS.  
+Turned routine circulation data into real-time insights that saved staff hours every week.
 
 ---
 
-## 🏆 Certifications
-- Google Data Analytics – Coursera  
-- Advanced SQL – DataCamp  
-- Machine Learning (Andrew Ng) – Coursera  
+## 🛠 What Drives Me
+I enjoy bridging the gap between data engineering and business impact.  
+My comfort zone is where messy data meets complex questions.  
+If something can be automated or visualized — I’ll find a way.
 
 ---
 
-## 💬 Ask Me About
-- Predictive Modeling & Feature Engineering  
-- SQL Optimization & ETL Pipelines  
-- Business KPI Dashboards (Power BI / Tableau)  
-- Cloud-based Analytics & Data Governance  
+## 🎓 Background
+**Master of Business Analytics** – University of Dayton (2025)  
+**Bachelor of Engineering (Computer Engineering)** – Savitribai Phule Pune University (2021)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **cdahiphale@gmail.com**  
-- 🔗 LinkedIn: [Shantanu Dahiphale](https://linkedin.com/in/shantanu-dahiphale)
+## 🧾 Certifications
+- Google Data Analytics (Coursera)  
+- Advanced SQL (DataCamp)  
+- Machine Learning – Andrew Ng (Coursera)
 
 ---
 
-## ⚡ Fun Fact
-Good data visuals should speak for themselves — if you need to explain them, they aren’t working.
+## 🌐 Connect
+📫 **cdahiphale@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shantanu-dahiphale-749190201)  
+💻 [Portfolio Projects](https://github.com/wckd111)
+
+---
+
+> *I don’t just clean data — I make it tell the truth.*
