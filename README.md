@@ -42,7 +42,7 @@ I believe the real challenge isn’t finding insights — it’s making them *vi
 Built a complete ML pipeline on SEER data (~800K records, 149 features)  
 Used NLP to process physician notes and improve survival predictions.  
 Best model: **CatBoost (AUC 0.89)**  
-👉 [View on GitHub]([https://github.com/wckd111/ColorectalCancerSurvivalPrediction-Shantanu])
+👉 [View on GitHub](https://github.com/wckd111/ColorectalCancerSurvivalPrediction-Shantanu)
 
 ### 🧠 Depression Detection Using AI  
 Explored facial, voice, and text signals to detect early symptoms.  
